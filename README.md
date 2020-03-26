@@ -1,3 +1,3 @@
 # Iranzu97
-Learning
+Learning.
 This is a repository that I will use to learn about Git and GitHub
